@@ -5,6 +5,12 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
+/**
+ * Ejercicio 1.
+ * Determinar si un numero es par o impar
+ *
+ * @author Yesid Rosas <ysrosast@gmail.com>
+ */
 public class ParImpar {
     public static void main(String[] args) {
         System.out.print("LEER NUMERO: ");

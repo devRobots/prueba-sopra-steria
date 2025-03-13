@@ -2,6 +2,12 @@ package ejercicio3;
 
 import java.util.Scanner;
 
+/**
+ * Ejercicio 3.
+ * Calcular el sueldo en funcion de las horas trabajadas y la tarifa.
+ *
+ * @author Yesid Rosas <ysrosast@gmail.com>
+ */
 public class Sueldo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

@@ -5,6 +5,12 @@ import ejercicio4.Alimentacion;
 
 import java.util.Scanner;
 
+/**
+ * Archivo Main
+ * Lista los ejercicios a elegir
+ *
+ * @author Yesid Rosas <ysrosast@gmail.com>
+ */
 public class Main {
     public static void main(String[] args) {
         System.out.println("1) Par/Impar");

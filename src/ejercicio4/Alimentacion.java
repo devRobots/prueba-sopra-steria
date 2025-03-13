@@ -8,6 +8,13 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
+/**
+ * Ejercicio 4.
+ * Lista los alimentos almacenados en un archivo JSON por categoria.
+ *
+ * @author Yesid Rosas <ysrosast@gmail.com>
+ * @see <a href="https://code.google.com/archive/p/json-simple/">Simple JSON</a>
+ */
 public class Alimentacion {
     public static void main(String[] args) {
         try {

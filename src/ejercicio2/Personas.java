@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+/**
+ * Ejercicio 2.
+ * Mostrar las estadisticas de una lista de personas.
+ *
+ * @author Yesid Rosas <ysrosast@gmail.com>
+ */
 public class Personas {
     public static final long SEED = 0;
     public static final int TOTAL_PERSONAS = 50;
