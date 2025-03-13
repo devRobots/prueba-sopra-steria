@@ -1,0 +1,1010 @@
+[
+  {
+    "categoría": "Fruta",
+    "nombre": "Manzana"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Plátano"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Naranja"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Pera"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Uva"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Fresa"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Mango"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Melón"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Sandía"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Ciruela"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Kiwi"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Limón"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Mandarina"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Cereza"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Piña"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Albaricoque"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Coco"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Calabaza"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Espinaca"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Brócoli"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Coliflor"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Lechuga"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Repollo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Apio"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Patata"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Batata"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Aguacate"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Tomate"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Alcachofa"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Chayote"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Berenjena"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Legumbre",
+    "nombre": "Habichuela"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Cebolla"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Ajo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Col"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Nabo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Puerro"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Apio"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Remolacha"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Tomate"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Espinaca"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Lechuga"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Manzana"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Plátano"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Naranja"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Pera"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Uva"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Fresa"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Mango"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Melón"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Sandía"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Ciruela"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Kiwi"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Limón"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Mandarina"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Cereza"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Piña"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Albaricoque"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Coco"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Calabaza"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Espinaca"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Brócoli"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Coliflor"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Lechuga"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Repollo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Apio"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Patata"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Batata"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Aguacate"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Tomate"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Alcachofa"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Chayote"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Berenjena"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Legumbre",
+    "nombre": "Habichuela"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Cebolla"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Ajo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Col"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Nabo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Puerro"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Apio"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Remolacha"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Tomate"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Espinaca"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Lechuga"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Manzana"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Plátano"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Naranja"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Pera"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Uva"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Fresa"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Mango"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Melón"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Sandía"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Ciruela"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Kiwi"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Limón"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Mandarina"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Cereza"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Piña"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Albaricoque"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Coco"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Calabaza"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Espinaca"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Brócoli"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Coliflor"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Lechuga"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Repollo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Apio"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Patata"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Batata"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Aguacate"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Tomate"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Alcachofa"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Chayote"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Berenjena"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Legumbre",
+    "nombre": "Habichuela"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Cebolla"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Ajo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Col"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Nabo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Puerro"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Apio"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Remolacha"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Tomate"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Espinaca"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Lechuga"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Manzana"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Plátano"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Naranja"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Pera"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Uva"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Fresa"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Mango"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Melón"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Sandía"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Ciruela"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Kiwi"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Limón"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Mandarina"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Cereza"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Piña"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Albaricoque"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Coco"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Calabaza"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Espinaca"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Brócoli"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Coliflor"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Lechuga"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Repollo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Apio"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Patata"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Batata"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Aguacate"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Tomate"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Alcachofa"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Chayote"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Berenjena"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Legumbre",
+    "nombre": "Habichuela"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Cebolla"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Ajo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Col"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Nabo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Puerro"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Apio"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Remolacha"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Tomate"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Espinaca"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Lechuga"
+  },
+  {
+    "categoría": "Legumbre",
+    "nombre": "s: Lentejas"
+  },
+  {
+    "categoría": "Legumbre",
+    "nombre": "s: Garbanzos"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Apio"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Remolacha"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Tomate"
+  },
+  {
+    "categoría": "Cereal",
+    "nombre": ": Cebada"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Lechuga"
+  },
+  {
+    "categoría": "Condimento",
+    "nombre": "Aceite"
+  },
+  {
+    "categoría": "Condimento",
+    "nombre": "Sal"
+  },
+  {
+    "categoría": "Condimento",
+    "nombre": "Azucar"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Remolacha"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pepino"
+  },
+  {
+    "categoría": "Cereal",
+    "nombre": "Arroz"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Avena"
+  },
+  {
+    "categoría": "Cereal",
+    "nombre": "Trigo"
+  },
+  {
+    "categoría": "Cereal",
+    "nombre": "Trigo"
+  },
+  {
+    "categoría": "Cereal",
+    "nombre": ": Cebada"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Habas"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Puerro"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Apio"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Remolacha"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Rape"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Pimiento"
+  },
+  {
+    "categoría": "ProteinaAnimal",
+    "nombre": "Huevo"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Espinaca"
+  },
+  {
+    "categoría": "Cereal",
+    "nombre": ": Cebada"
+  },
+  {
+    "categoría": "Condimento",
+    "nombre": "Sal"
+  },
+  {
+    "categoría": "Condimento",
+    "nombre": "Azucar"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Remolacha"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Condimento",
+    "nombre": "Sal"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Limón"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Mandarina"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Cereza"
+  },
+  {
+    "categoría": "Condimento",
+    "nombre": "Sal"
+  },
+  {
+    "categoría": "Condimento",
+    "nombre": "Sal"
+  },
+  {
+    "categoría": "Condimento",
+    "nombre": "Sal"
+  },
+  {
+    "categoría": "Condimento",
+    "nombre": "Azucar"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Remolacha"
+  },
+  {
+    "categoría": "Verdura",
+    "nombre": "Zanahoria"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Limón"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Mandarina"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Cereza"
+  },
+  {
+    "categoría": "Condimento",
+    "nombre": "Sal"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Fresa"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Mango"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Melón"
+  },
+  {
+    "categoría": "Fruta",
+    "nombre": "Sandía"
+  }
+]
