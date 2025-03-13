@@ -797,11 +797,11 @@
   },
   {
     "categoría": "Legumbre",
-    "nombre": "s: Lentejas"
+    "nombre": "Lentejas"
   },
   {
     "categoría": "Legumbre",
-    "nombre": "s: Garbanzos"
+    "nombre": "Garbanzos"
   },
   {
     "categoría": "Verdura",
@@ -829,7 +829,7 @@
   },
   {
     "categoría": "Cereal",
-    "nombre": ": Cebada"
+    "nombre": "Cebada"
   },
   {
     "categoría": "Verdura",
@@ -877,7 +877,7 @@
   },
   {
     "categoría": "Cereal",
-    "nombre": ": Cebada"
+    "nombre": "Cebada"
   },
   {
     "categoría": "Fruta",
@@ -917,7 +917,7 @@
   },
   {
     "categoría": "Cereal",
-    "nombre": ": Cebada"
+    "nombre": "Cebada"
   },
   {
     "categoría": "Condimento",
